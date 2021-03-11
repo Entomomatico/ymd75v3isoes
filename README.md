@@ -1,7 +1,7 @@
 # ymd75v3isoes
 YMDK PCB Keyboard firmware for the 75% version V3. Spanish ISO. 
 
-(ymd75v3isoes_layout.jpg show the layout for this firmware)
+(ymd75v3isoes_layout.jpg shows the layout for this firmware)
 
 This firmware was generated in this page: http://mtkeyboard.vip/
 
