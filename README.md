@@ -14,9 +14,9 @@ http://Drive.google.com/file/d/1115vf8N4E2NMiSnLZkg-oRiilEUqG_GE/view?usp=sharin
 
 To control and flash the pcb is necessary to use de Zadig software and the QMK Toolbox software as described in the document above.
 
-UPDATE 08/07/2021:
-Volume up/down: Fn + Up Arrow/Down Arrow
-Volume mute: Fn + M
-Song Next/Prev: Fn + Right Arrow/Left Arrow
+UPDATE 08/07/2021:<br>
+Volume up/down: Fn + Up Arrow/Down Arrow<br>
+Volume mute: Fn + M<br>
+Song Next/Prev: Fn + Right Arrow/Left Arrow<br>
 
 
