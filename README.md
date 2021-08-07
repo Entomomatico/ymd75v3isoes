@@ -5,16 +5,16 @@ I use this firmware on this pcb: YMD75 v3 QMK ISO
 
 (ymd75v3isoes_layout.jpg shows the layout for this firmware)
 
-This firmware was generated in this page: http://mtkeyboard.vip/
+This firmware was generated in this page: http://mtkeyboard.vip/<br>
 (the .json file allow you to load this layout at that page and modify it as you need)
 
 
-In order to flash the firmware(the .hex file) into the pcb I follow the instructions of this document:
+In order to flash the firmware(the .hex file) into the pcb I follow the instructions of this document:<br>
 http://Drive.google.com/file/d/1115vf8N4E2NMiSnLZkg-oRiilEUqG_GE/view?usp=sharing
 
 To control and flash the pcb is necessary to use de Zadig software and the QMK Toolbox software as described in the document above.
 
-UPDATE 08/07/2021:<br>
+#### UPDATE 08/07/2021:<br>
 Volume up/down: Fn + Up Arrow/Down Arrow<br>
 Volume mute: Fn + M<br>
 Song Next/Prev: Fn + Right Arrow/Left Arrow<br>
